@@ -255,6 +255,7 @@ a:focus {
   -webkit-transition-duration: 1s;
   -moz-transition-property: -moz-transform;
   -moz-transition-duration: 1s;
+  
 }
 .btn-circle:hover i.animated {
   -webkit-animation-name: pulse;

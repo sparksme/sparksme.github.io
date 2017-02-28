@@ -49,6 +49,14 @@ a:focus {
   text-decoration: none;
   color: #1d9b6c;
 }
+/* Change speed for fadeIn*/
+.fadeIn {
+  -webkit-animation: fadeIn 4s; /* Safari 4+ */
+  -moz-animation:    fadeIn 4s; /* Fx 5+ */
+  -o-animation:      fadeIn 4s; /* Opera 12+ */
+  animation:         fadeIn 4s; /* IE 10+, Fx 29+ */
+}
+
 .light {
   font-weight: 400;
 }
